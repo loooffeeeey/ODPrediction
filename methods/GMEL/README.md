@@ -4,7 +4,7 @@ This repo contains the code and data for our paper ***Learning Geo-Contextual Em
 
 GMEL makes use of land use information, such as NYC's [PLUTO](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page), and commuting trips information to study the problem of commuting flow prediction using graph neural network.
 
-![GMEL Framework](/img/framework.png)
+![GMEL Framework](img/framework.png)
 
 
 # Table of contents
